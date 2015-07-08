@@ -11,7 +11,7 @@ for download information, please contact us by email: tgogar [ at ] gmail.com
 Index is available in plain text or as HBase database. 
 
 ## Nutch plugins
-In this work we use Nutch crawler, for more details, please see: nutch.apache.org
+In this work we use Nutch crawler, for more details, please see: http://nutch.apache.org
 How to work with plugins is explained here: https://wiki.apache.org/nutch/PluginCentral
 There are actually two Nutch plugins available in this repository:
 
